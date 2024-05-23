@@ -2513,5 +2513,30 @@
                 "timestamp": 1714668124
             }
         }
+    },
+    "test": {
+        "map_name": "test",
+        "regions": {
+            "r.-4.-4": {
+                "region": "r.-4.-4",
+                "uuid": "3d363adbb5fb4d429a4d65a6fe215ab7",
+                "timestamp": 1716408309
+            },
+            "r.-4.-3": {
+                "region": "r.-4.-3",
+                "uuid": "94efad92737c4780aa752e23b455cf3d",
+                "timestamp": 1716408323
+            },
+            "r.-3.-4": {
+                "region": "r.-3.-4",
+                "uuid": "a9f367b7a42c4719974cdbefd259767e",
+                "timestamp": 1716408864
+            },
+            "r.-3.-3": {
+                "region": "r.-3.-3",
+                "uuid": "27222d6ca436475eb7e303097676a95d",
+                "timestamp": 1716408884
+            }
+        }
     }
 }
